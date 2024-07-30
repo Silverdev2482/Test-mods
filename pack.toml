@@ -1,0 +1,13 @@
+name = "Test Mods"
+author = "Silverdev2482"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b7889d2bdf56f9fac22f3be8fcc5132bfde114675257879e03441532a6ce2acd"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.4"

@@ -1,0 +1,15 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+
+[[files]]
+file = "mods/discord-mc-chat.pw.toml"
+hash = "51ac010204bbf9658667526d49466ee176d8d10d5c492162fd3ef9cacad53fdc"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
+metafile = true
